@@ -3,10 +3,9 @@ I'm learning GitHub and programming.
 
 Current interests:
 - Mathematics
-- Industrial Engineering
-- Startups
+- Industrial/Managment Engineering
+- Y-combinator
 - Technology
-- Writing
 
 Currently learning: 
 - Python
